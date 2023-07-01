@@ -11,6 +11,6 @@ Sorting by date: The board allows sorting listings in ascending order based on t
 Localization: The project is fully localized in Russian, providing a user-friendly interface for Russian-speaking users.
 Categorization: The board implements a rubric system, allowing users to categorize their listings under specific categories.
 Language: Russian
-Programming Language: Python 3.11, Django 4.1
+Programming Language: Python 3.11, Django 4.2
 
 Feel free to explore the code and contribute to the project if you are interested in learning or improving Django skills.
